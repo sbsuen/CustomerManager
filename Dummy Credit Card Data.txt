@@ -1,0 +1,14 @@
+﻿Source: https://stripe.com/docs/testing
+
+Mastercard, CVV 3 digits
+5555555555554444, Exp: 1230, CVV: 123
+2223003122003222, CVV 3 digits
+
+Visa, CVV 3 digits
+4242424242424242
+4000056655665556 (debit)
+
+American Express
+378282246310005, CVV 4 digits
+371449635398431, CVV 4 digits
+
